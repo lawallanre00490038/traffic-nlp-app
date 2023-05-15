@@ -1,0 +1,25 @@
+/* style.css
+table {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  
+  th {
+    font-size: 18px;
+    color: #333;
+    text-align: left;
+    padding: 10px;
+  }
+  
+  td {
+    font-size: 16px;
+    color: #666;
+    text-align: left;
+    padding: 10px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+   */

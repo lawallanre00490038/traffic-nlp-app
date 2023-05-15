@@ -1,0 +1,1 @@
+web: gunicorn --chdir myApp\Lib\site-packages\flask app:server

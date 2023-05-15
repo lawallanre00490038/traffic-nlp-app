@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 20px;
+    background-color: rgba(229, 201, 16, 0);
+    color: rgb(0, 0, 0);
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Styling the header */
+.header {
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; */
+    /* text-align: center; */
+    font-size: 0.8em;
+    padding: 10px 20px;
+}
+
+.header .logo_title {
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 1.2rem 0;
+    flex-wrap: wrap;
+
+}
+
+
+.nav div a {
+    padding: 10px;
+    display: block;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    width: 150px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: #fff700;
+    font-family: 'Lato', sans-serif;
+}
+
+.nav li:last-child {
+    margin-right: 0;
+}
+
+.nav a:hover {
+    background-color: #4cdccb;
+    transition: 0.3s ease-in;
+    color: #000000;
+    font-weight: 600;
+    transition: 0.5s ease-in;
+}
+
+.hero {
+    background-image: url(https://c.files.bbci.co.uk/17EF0/production/_114323089_transportlagostraffic.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+  }
+  
+  .hero-overlay {
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .hero-content {
+    color: #fff;
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+  }
+  
+  .hero-title {
+    font-size: 4rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.5rem;
+    font-weight: 300;
+  }
+  
+
+
+
+
+
+
+
+
+
+/* The footer section */
+footer {
+    text-align: center;
+}

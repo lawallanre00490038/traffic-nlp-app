@@ -1,0 +1,271 @@
+date	content
+2023-02-09 07:12:43+00:00	Acme junction inward Agidingbi, Cadbury junction, Mobil junction, daily times down to Coca-cola junction is good to go.     
+2023-02-09 07:18:48+00:00	Approaching Lekki conservation centre is busy towards Chevron, Igbo efon and Jakande due to morning rush.
+2023-02-09 07:18:49+00:00	Connecting Marwa from Ikate is good Marwa back to Ajah proper is good
+2023-02-09 07:29:07+00:00	Cele inward Cele/ijesha fly over bridge is busy but moving steadily due to construction work at the other side of Cele
+2023-02-09 07:29:08+00:00	Movement from Cele inward Ago roundabout is busy due to alternation at the junction.
+2023-02-09 07:29:08+00:00	Vehicular  movement from Ago roundabout inward Apata enroute Transformer to Ilasa is also busy due to early morning rush.
+2023-02-09 07:29:08+00:00	Movement from Ago roundabout inward pako/chemist is good
+2023-02-09 07:29:08+00:00	Vehicular movement from Oke-afa  enroute Pako, Kogberegbe, Ire akari junction, Ishaga, College inward Aye is busy  due to alternation at College/Aye junction  and early morning rush
+2023-02-09 07:29:09+00:00	Connecting Aye inward limca, Laspotech, Daleko is good to go
+2023-02-09 07:29:09+00:00	Vehicular movement from 5star inward Iyana isolo enroute Ilasa, Cele inward Ijesha is also good on  the main carriage way and the service lane
+2023-02-09 07:52:10+00:00	Abule egba inward Charity is free Charity to Abattoir enroute Emmanuel is gtg
+2023-02-09 07:52:11+00:00	Oke koto inward Sofunde down to agbotikuyo enroute Alagba  is good
+2023-02-09 07:52:11+00:00	return journey frm Alagba inw Oke koto is gd
+2023-02-09 07:52:11+00:00	Sofunde inwd oke koto is slow
+2023-02-09 07:52:11+00:00	Oke koto inward Oniwaya is good to go likewise the return journey back to Oke koto
+2023-02-09 07:52:11+00:00	Oke koto to Oba ogunji inward Odo eran is slow
+2023-02-09 07:52:12+00:00	Odo eran inward Marketing is good to go likewise return journey
+2023-02-09 07:52:12+00:00	Marketing inward Stadium to Maternity inward Balogun Pencinema is good to go.
+2023-02-09 07:52:12+00:00	Odo eran to Wemco inw Metal box is slow
+2023-02-09 07:52:13+00:00	Marketing inward Akilo to Ascon junction inward Acme down to Fumec is good to go
+2023-02-09 07:52:13+00:00	Return journey from Fumec to Metal box is good to go
+2023-02-09 07:52:13+00:00	Wemco junction down to Odo eran  Mobile Asade inw Akani Doherty is slow at the moment.
+2023-02-09 07:52:13+00:00	Akani Doherty to Dangote U-turn is steady good likewise the return journey.
+2023-02-09 07:52:13+00:00	Guinness junction inward Mangoro Asade is good
+2023-02-09 07:59:50+00:00	Vehicular movement from Dolphin inward Osbourne road is on the high side while manual control is in progress at foreshore intersection.
+2023-02-09 07:59:50+00:00	Alfred Rewane stretch is  busy due to alternation at Bayo Kuku, Golden gate and NNPC intersections
+2023-02-09 07:59:51+00:00	Awolowo road  Movement from Okotie Eboh inward Falomo roundabout is busy due to early morning rush.
+2023-02-09 07:59:52+00:00	Obalende Ubridge is busy due to early morning rush coupled with commercial activities.  
+2023-02-09 09:43:16+00:00	A broken down loaded Tanker on McWen bridge inward Bonny Camp with effect on traffic movement for now. 
+2023-02-09 10:04:03+00:00	A broken down Truck at Orile on the service lane inward Mile2 with no effect on traffic movement.
+2023-02-09 10:06:34+00:00	The earlier reported broken down loaded Tanker on McWen Bridge inw Bonny Camp has been moved off the road. 
+2023-02-09 10:06:34+00:00	Oba Ogunnusi road from River Valley inward Omole junction to connect Agidingbi
+2023-02-09 12:21:38+00:00	Busy movement from Otedola to Kara
+2023-02-09 12:21:38+00:00	Return journey from Kara back to Otedola is good.
+2023-02-09 12:21:39+00:00	Return journey from Odoeran back to Omole is good aside alternation. 
+2023-02-09 12:21:39+00:00	Slight delays approaching Hotel b/stop due to fuel queue at NNPC Filling station.
+2023-02-09 12:21:40+00:00	Slight delay at VIS corridor due to massive turning and fuel queues
+2023-02-09 12:21:40+00:00	Better movement inward Isheri Olowora.
+2023-02-09 14:07:38+00:00	Ojota bridge inw China Town, Alapere, Ogudu, Ifako, Iyana Oworo all in good shape.
+2023-02-09 14:07:39+00:00	It is also good ascending 3MB through Adeniji,  Olowu, Simpson bridge, Obalende bridge inw Onikan bridge down to CMS bridge is good.
+2023-02-09 14:07:39+00:00	The return journey is encouraging but slow approaching Ogudu down to NNPC due to fuel queue
+2023-02-09 14:07:40+00:00	slow approaching Tollgate turning due to massive turning of motorists.
+2023-02-09 14:07:40+00:00	Good movement immediately after Toll gate turning inw Otedola Bridge enroute New Garage.
+2023-02-09 14:46:38+00:00	The stretch of Osolo Way from Aiye to Mechanic village link bridge is good.
+2023-02-09 14:46:40+00:00	DHL to 5 star enroute Aswani Road by Emzor to connect Osolo Way by Aswani junction is good.
+2023-02-09 14:46:41+00:00	Robinson Gbagi down to Ajibade Babatola is slow down to navigate Canoe proper.
+2023-02-09 15:35:00+00:00	High influx and busy from PWD inward Airport turning towards Airport bus stop.
+2023-02-09 15:35:00+00:00	Meanwhile movement from Airport bus stop inward National, Ikeja Along towards Ajayi Farm is also busy.
+2023-02-09 15:35:00+00:00	Ajayi Farm inward Ile Zik enroute Mangoro and Cement is good towards Dopemu under bridge.
+2023-02-09 15:44:51+00:00	Good movement from NITEL inward Total for now, return journey from Total to Abattoir is good.
+2023-02-09 15:44:52+00:00	Total inward Okekoto is good
+2023-02-09 15:44:52+00:00	The return journey from Okekoto inward Total is also good.
+2023-02-09 15:44:52+00:00	Okekoto inward Shofunde is good likewise the return journey. Okekoto inward and outward Oniwaya is good.
+2023-02-09 15:44:53+00:00	Dopemu inward Oniwaya is good. Capitol Road connecting National Mangoro Ashade is good.
+2023-02-09 15:44:53+00:00	Akanni Doherthy Road connecting Guinness is good; the return journey is also good.
+2023-02-09 15:44:55+00:00	Mobil Ashade inward Akilo Road connecting Marketing is good. 
+2023-02-09 15:46:22+00:00	The return journey from Oba Ogunji inward Odo Eran is also good. 
+2023-02-09 16:34:29+00:00	Vehicular movement from Idiroko through the service lane inw Maryland intersection is busy due to traffic light delay. 
+2023-02-09 16:34:29+00:00	slow towards Leventis down to Total filling station due to fuel queue.
+2023-02-09 16:34:29+00:00	Moving further inw Onigbongbo through Cantonment is ok
+2023-02-10 06:59:05+00:00	Slow movement approaching Omole Gate due to high influx in and out Omole Estate.
+2023-02-10 07:24:50+00:00	A truck has broken down with spring related problem at Kola, inwards Alakuko.
+2023-02-10 07:42:10+00:00	Adekunle interchange on 3MB, navigating into Clinic Rd is a smooth ride.
+2023-02-09 07:52:13+00:00	Akani Doherty to Dangote U-turn is steady likewise the return journey.
+2023-02-09 07:59:52+00:00	Obalende Ubridge is busy due to early morning rush coupled with commercial activities
+2023-02-09 09:43:16+00:00	A broken down loaded Tanker on McWen bridge inward Bonny Camp with effect on traffic movement for now.
+2023-02-09 10:04:03+00:00	A broken down Truck at Orile on the service lane inward Mile2 with no effect on traffic movement. 
+2023-02-09 10:06:34+00:00	The earlier reported broken down loaded Tanker on McWen Bridge inw Bonny Camp has been moved off the road.
+2023-02-09 12:21:39+00:00	Return journey from Odoeran back to Omole is good aside alternation.
+2023-02-09 12:21:39+00:00	Slight delays approaching Hotel b/stop due to fuel queue at NNPC Filling station.
+2023-02-09 14:07:39+00:00	It is also good ascending 3MB through Adeniji,  Olowu, Simpson bridge, Obalende bridge inw Onikan bridge down to CMS bridge is good.
+2023-02-09 14:46:38+00:00	The stretch of Osolo Way from Aiye to Mechanic village link bridge is good.
+2023-02-09 14:46:38+00:00	Seriki Abass to Asa Afariogun intersection where alternations is on is good.
+2023-02-09 14:46:41+00:00	Robinson Gbagi down to Ajibade Babatola is slow down to navigate Canoe proper.
+2023-02-09 14:46:41+00:00	Mubostic inward Canoe to Chivita to link Lukman Atobajeun down to Swimming pool junction is slow.
+2023-02-09 14:46:41+00:00	Meanwhile movement from Airport bus stop inward National, Ikeja Along towards Ajayi Farm is also busy.
+2023-02-09 15:35:00+00:00	Ajayi Farm inward Ile Zik enroute Mangoro and Cement is good towards Dopemu under bridge.
+2023-02-09 15:44:51+00:00	Good movement from NITEL inward Total for now, return journey from Total to Abattoir is good.
+2023-02-09 17:32:06+00:00	Movement inw Ishaga r'abt from Fagba intersection is good to Balogun bstop
+2023-02-09 17:32:07+00:00	The return journey from Ishaga r'abt to Fagba intersection is good aside alternation.  
+2023-02-09 17:37:35+00:00	Busy movement from Otedola inward Kara due to road demarcation at Kara- Opic corridor by Julius berger constructions.
+2023-02-09 14:46:40+00:00	DHL to 5 star enroute Aswani Road by Emzor to connect Osolo Way by Aswani junction is good.
+2023-02-09 14:46:41+00:00	Robinson Gbagi down to Ajibade Babatola is slow down to navigate Canoe proper.
+2023-02-09 15:44:54+00:00	Dangote u-turn inward Ikeja on Oba Akran is moving steadily
+2023-02-09 15:44:55+00:00	Mobil Ashade inward Akilo Road connecting Marketing is good.
+2023-02-09 16:38:03+00:00	Vehicular movement from Iyana School to Kosofe down to Mile 12 is good. 
+2023-02-09 16:38:04+00:00	Ascending and descending Mile 12 bridge inward Owode Elede
+2023-02-09 17:37:36+00:00	Moving inward Omole gate is slightly slow. Approaching Omole junction is slow due to alternation. 
+2023-02-09 17:37:37+00:00	Area G inward Ogba proper is slow due to bstop activities and influx into Thomas Salako. 
+2023-02-09 17:38:05+00:00	Grammar School inward VIS is a slow moving traffic due to massive turning at VIS coupled with fuel queue at NNPC.
+2023-02-09 18:06:49+00:00	Movement inward Ikeja Along and Ajayi Farm is also very busy due to commercial buses activities coupled with the narrowed path at Ajayi Farm.
+2023-02-09 18:09:45+00:00	The return journey back to Cele inward Ago roundabout is also busy. 
+2023-02-09 18:09:45+00:00	Movement inward Pako/Chemist is also busy due to evening rush.
+2023-02-09 18:09:45+00:00	Vehicular movement from Oke Afa, Pako, Kogberegbe, Ishaga, College, Aye, Limca inward Laspotech down to Daleko is busy for now due to evening rush.
+2023-02-10 06:51:40+00:00	Total inward Okekoto is a steady movt, PenCinema flyover bridge inward Okekoto is also a steady movement.
+2023-02-10 07:24:50+00:00	A truck has broken down with spring related problem at Kola, inwards Alakuko.
+2023-02-10 08:36:05+00:00	Report of a lone accident involving a Toyota Hilux at obalende bridge inward ilubirin with no casualty involved.
+2023-02-10 08:08:40+00:00	Movement from sabo roundabout to connect Itamaga both inward and outward are good to go.
+2023-02-10 07:49:22+00:00	The return journey from Wharf Gate to connect back to Eleganza on Wharf road is steadily moving. 
+2023-02-10 08:36:05+00:00	Report of a lone accident involving a Toyota Hilux at obalende bridge inward ilubirin with no casualty involved. 
+2023-02-10 08:36:05+00:00	Slow movement descending Third Mainland Bridge toward Flag Staff House now due
+2023-02-10 08:45:22+00:00	Odunlami, Igbosere, TBS avenue and other linking roads to connect desire destination are still good to go as reported earlier.
+2023-02-10 14:20:53+00:00	Command Ekoro is good. Agbelekale is good. Ile-iwe, Command, Ikanla Oju odo, Adefemi, Church is good
+2023-02-10 15:45:05+00:00	Movement from Aye inward Aswani market junction is good both inward and outward.
+2023-02-10 15:45:05+00:00	Toward Asa afariogun junction is slightly busy but moving due to influx and alternation at the intersection. Connecting 7&amp;8 is slow due to alternation.
+2023-02-10 15:45:08+00:00	Connecting Jesus House is a good movement aside traffic lights alternation.
+2023-02-10 16:22:03+00:00	From Randuk to Jakande Gate is moving slowly due to high influx.
+2023-02-10 16:27:35+00:00	Alagba approaching Iyana ipaja round about is slow.
+2023-02-10 16:27:37+00:00	Moshalasi approaching Egbeda intersection and moving towards Isheri round about is slow.
+2023-02-10 16:50:49+00:00	Movement within the entire stretch of Obafemi Awolowo Way, Billings Way, Kudirat Abiola Way, Opebi Road, Ikosi Road, Aromire Road, Toyin Street, Sheraton Link and Opebi-Welfare Link Bridges is good.
+2023-02-10 17:34:38+00:00	Jesus house to Eleganza enroute Canoe to NNPC road is busy 
+2023-02-10 17:34:38+00:00	Vehicular movement from 7&amp;8 inward Osolo-way to Asa-afariogun intersection inward Aswani is slow due to alternation at Afariogun intersection,
+2023-02-10 17:45:42+00:00	Approaching Allen intersection from Balogun is also busy due to backlog from Allen intersection.
+2023-02-10 17:45:42+00:00	Movement from Allen inward Aromire, Akora villa, Hacco on Adeniyi Jones is busy
+2023-02-10 17:45:44+00:00	First gate and Wemco junction is busy at the moment
+2023-02-10 19:46:04+00:00	Still busy but moving steadily from Catholic Church connecting Charity
+2023-02-10 20:43:13+00:00	Jungle to Fagba bstop is free, Fagba bus stop to Fagba intersection is busy
+2023-02-11 06:30:05+00:00	A broken down flat body truck loaded with iron rod at Jakande inward Lekki occupying 80% of the road thereby hindering the flow of traffic but effort is on for its evacuation
+2023-02-11 06:05:20+00:00	Another broken down loaded truck with papers at Kola inw Toll gate as well having spring related issue
+2023-02-11 05:58:38+00:00	A broken down loaded 6 tyres truck at Kola inw Toll Gate.
+2023-02-11 06:41:06+00:00	Isheri roundabout inward  Egbeda to moshalasi Roundabout and the return journey is very gtg,
+2023-02-11 06:41:06+00:00	Alagba and Express is gtg.  Inward Moshalasi from there is fast moving traffic
+2023-02-11 06:53:26+00:00	An overnight broken down loaded flat body trailer with iron at Jakande roundabout inward Chisco with mechanical problem occupying about 70 percent of the road
+2023-02-11 06:58:40+00:00	Iyana-oworo inward Olopomeji and Gbagada Express Way is good to go. Charly Boy inward Gbagada to Car Wash and Oworoshoki is good to go.
+2023-02-11 06:58:41+00:00	Pako inward Unilag Gate is Appreciable and good to go towards Abule Oja
+2023-02-11 13:45:30+00:00	There's a  brokendown 40ft containerized truck on Carter bridge inward Eyineyo, Idumota.
+2023-02-11 15:04:35+00:00	Traffic inward and outward of third mainland bridge is very free. Iyana Oworo towards Ogudu and Alapere is also a rapid flow
+2023-02-11 15:28:50+00:00	Command/Ekoro and its adjoining corridor is having a steady movement but Ekoro is good to go inward Agbelekale is good.
+2023-02-11 15:36:36+00:00	Meanwhile we also have it slow approaching Ojota bus stop due to the activities of public buses and also pedestrians crossings.  
+2023-02-11 19:21:53+00:00	A car has broken down with rear tyre problem, just in front of Stanbic bank, inwards Shasha.
+2023-02-11 19:57:47+00:00	Cement inward Dopemu underneath the bridge to Pako, Goye, iyana Ipaja is good
+2023-02-11 19:58:28+00:00	Return journey from Egbeda to connect Lagos Abeokuta express way is good also, like ise Swipha, Agbotikuyo, Oniwaya axis.
+2023-02-12 06:23:42+00:00	A broken down PSP Truck at Bakery B/stop in front of UBA bank inward Egbeda having a Clutch problem.
+2023-02-12 06:28:14+00:00	In and out of Lagos Ibadan expressway from Otedola to Kara and the return journey from Kara back to Otedola is good
+2023-02-12 06:28:14+00:00	Omole inward Ogba, Odoeran is also good aside alternation
+2023-02-12 06:28:14+00:00	Return journey from Odoeran back to River Valley is good aside alternation. 
+2023-02-12 07:50:20+00:00	A lone accident of a loaded Truck with ply-woods ascending the Tsunami bridge.
+2023-02-12 08:08:31+00:00	Pako to Unilag Gate and Abule Oja is good. Same applies to the return journey.
+2023-02-12 09:30:23+00:00	Traffic in and out of Awolowo Way is gd; Traffic in and out of Aromire is gd; Traffic in and out of Allen Avenue is gd; Traffic in and out of Opebi is gd; Traffic in and out of Kudirat Abiola is gd.
+2023-02-12 09:30:27+00:00	Traffic in and out of Toyin Street is gd; Traffic in and out of Opebi link Rd is gd
+2023-02-12 09:34:21+00:00	Vehicular movement on oba Ogunnusi is good aside alternation delay at VIS and Omole. Excellence,Ogba,Odo eran is also good.    
+2023-02-13 05:17:44+00:00	The NNPC intersection is accommodating and Mubostic Junction to Canoe area is good
+2023-02-13 05:28:22+00:00	Traffic from Iyana Dopemu inward Cement is good to go.
+2023-02-13 05:54:14+00:00	Jonathan Coker road is also a slow moving traffic inward Fagba
+2023-02-13 06:39:05+00:00	Traffic is slow after Alapere towards Ogudu down to Iyana Oworo.
+2023-02-13 08:16:14+00:00	Slow and steady movement on third mainland bridge inward Adeniji down to simpson under bridge
+2023-02-13 08:16:15+00:00	Obalende  bridge inward Onikan bridge to connect CMS down to uba is good to go.
+2023-02-13 13:19:30+00:00	Slow movement from Ikotun intersection inward Oju-Odo due to commercial activities.
+2023-02-13 13:19:31+00:00	NNPC inward Gate down to Pako is good. Return journey from Pako down to Synagogue is good. 
+2023-02-13 17:02:35+00:00	A lone accident of a Trailer with a brake failure which rammed into a gutter at Asa-afariogun intersection.
+2023-02-13 17:07:24+00:00	Benson inward Ikorordu Roundabout connecting Ojubode and Ladega is busy
+2023-02-13 17:11:50+00:00	Busy movement from Marwa towards Ikate, Chisco,
+2023-02-13 17:17:23+00:00	Return journey from Ajegunle down to Abule Egba is good
+2023-02-13 18:41:05+00:00	Adekunle Inw Panti is slow due to traffic light alternation coupled with high influx
+2023-02-13 18:41:06+00:00	University junction, Yabatech, WAEC is all looking good
+2023-02-13 18:41:06+00:00	The return journey from Jibowu UBridge is ok 
+2023-02-13 18:54:03+00:00	The stretch of Abule egba-Ajegunle corridor in and out is good
+2023-02-13 19:03:14+00:00	Capitol road connecting National, Mangoro Ashade is good, same as the return journey
+2023-02-13 19:03:17+00:00	Odo Eran inward Chemiron junction, Metal box road connecting Acme is good
+2023-02-13 20:45:18+00:00	Good movement on College road in and out Pen cinema Ubridge to Fagba intersection is good in and out
+2023-02-14 05:56:13+00:00	Good  movement along  Marina road from UBA toward Cathedral at this hour
+2023-02-14 05:58:37+00:00	Broad Street link Apongbon towards olowogbowo is very good
+2023-02-14 08:48:51+00:00	A broken down containerised vehicle with battery problem along  Marina road by Davies junction
+2023-02-14 11:09:51+00:00	Movement from Otto Wharf inward  UBA is good to go
+2023-02-14 14:28:54+00:00	Fagba towards Agege is good
+2023-02-14 16:19:18+00:00	Traffic moves slowly from Iyana Oworo down to Ogudu and also to Alapere filling station due to fuel queue
+2023-02-14 17:05:10+00:00	From Sabo Roundabout to Onimalu enroute Alaka down to Itamaga Intersection is good to go likewise the return journey. 
+2023-02-14 17:08:25+00:00	Traffic is busy now at kudirat abiola way from Ojota to welfare and Ikosi junction. 
+2023-02-14 19:13:17+00:00	A loaded truck has broken down with mechanical fault on Iyanaipaja-Ayobo road, after Kokumo bus stop, inward Moshalasi r/bout
+2023-02-15 06:05:13+00:00	An accident involving a container laden truck and a Tanker has occurred on the Alaka bridge inw Eko bridge
+2023-02-15 06:35:16+00:00	A truck has broken down at Eleko jnctn inw Epe, taking up a lane.
+2023-02-15 06:46:46+00:00	Traffic is gd from Sango inw Ajegunle, Alakuko, Moshalashi, Kola, Casso, Adura, Salolo, Meiran, Ijaiye, Obadeyi thru Ahmadiya and Abule Egba via the bridge and under the bridge.
+2023-02-15 06:46:48+00:00	Traffic is still gd inw Katangua, Super, Ile-Epo, Pleasure, Danco and Iyana Ipaja.
+2023-02-15 06:46:48+00:00	Moving on thru Araromi, Adealu, Paki and Iyana Dopemu inw Dopemu, Cement, Mangoro, Ile Zik and Ikeja Along is gd.
+2023-02-15 07:24:24+00:00	A container laden trailer has broken down at Conoil U-turn inw Igando Phase 1,
+2023-02-15 07:30:44+00:00	A loaded tanker has broken down at Abule Tailor inw Ijaiye, taking up a lane. 
+2023-02-15 07:42:31+00:00	Traffic gd from Ajuwon Rd inw Elliot, Rogo Jnctn approaching Ishaga R/Abt.
+2023-02-15 08:11:37+00:00	A multiple accident has occurred at Ijaiye inw Abule Egba due to break failure.
+2023-02-15 10:57:33+00:00	A truck has broken down just by Mosley B/Stop on Gerard Rd inw Gerard R/Abt, taking up a lane thereby slowing down traffic
+2023-02-15 11:35:53+00:00	The earlier reported broken down truck on Gerard road inw the Gerard R/Abt has been towed off the spot,
+2023-02-15 11:37:12+00:00	The earlier reported broken down truck at Ebute Police post intersection has been towed off the road
+2023-02-15 16:58:31+00:00	Ogba is slightly busy due to bstop activities and influx into Thomas Salako
+2023-02-15 17:03:50+00:00	Eleganza down to Etisalat, Mr Biggs to connect Wharf gate is good.  
+2023-02-16 05:55:38+00:00	Early morning rush out of Apapa through the Marine bridge to connect Iganmu and Ijora is also good to go.  
+2023-02-16 06:00:34+00:00	For now we are still enjoying free flow of traffic inward and outward of Carter bridge , while traffic from underneath ldumota bridge inward Eyin Eyo connecting Balogun is also street still looking good at this hour.
+2023-02-16 06:00:35+00:00	Tinubu connecting Nnamdi Azikiwe street enroute Tom Jones intersection is equally good to go for now
+2023-02-16 06:05:19+00:00	The return journey from Marwa back to Ajah is also good to go.
+2023-02-16 08:31:53+00:00	Evacuation is presently ongoing at the earlier reported accident scene at Igboefon
+2023-02-16 09:18:38+00:00	Movement from Odo Ogun down to Mile 12 is good to go.
+2023-02-16 09:18:38+00:00	Ascending and descending Mile 12 inward kosofe down to Iyana School is good to go.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
