@@ -20,7 +20,12 @@ server = app.server
 
 app.layout = html.Div(
     [
-        html.H1('Lagos Traffic Data Geo-visualization',  className='logo_title'),
+        html.Div(
+        [
+            html.H1('Lagos Traffic Data Geo-visualization'),
+            html.Img(src='assets/traffic_logo1.png')
+            
+        ],  className='logo_title'),
 
         html.Div(
         [

@@ -12,6 +12,7 @@ from functions.get_file import get_pandas_data
 from pathlib import Path
 DATA_PATH = Path(os.path.abspath(__file__)).parent.parent.parent / 'data'
 df = pd.read_csv(DATA_PATH  / "final_data.csv").dropna()
+df = df.copy(deep=True)
 df["date"] = pd.to_datetime(df["date"])
 
 # Main traffic classs
@@ -29,7 +30,6 @@ data_bar.update_layout(
     yaxis_title_font=dict(size=16, color='black'),
     plot_bgcolor='white',
 )
-
 
 layout =  html.Div(
     [
@@ -66,7 +66,6 @@ layout =  html.Div(
     }
 )
 
-
 @dash.callback(
     Output('graph-content', 'figure', allow_duplicate=True),
     Input('select_category_for_traffic', 'value'),
@@ -76,7 +75,7 @@ def update_graph(value):
     category = "free flow"
     if value:
         category = value
-    df = df.copy(deep=True)
+    
     dff = filter_by_category(category, df)
     fig = px.bar(
         dff,

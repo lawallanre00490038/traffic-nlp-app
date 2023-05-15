@@ -23,6 +23,17 @@ body {
     font-size: 0.8em;
     padding: 10px 20px;
 }
+.header .logo_title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header .logo_title img {
+  object-fit: contain;
+  max-height: 100px;
+  min-height: 50px;
+}
 
 .header .logo_title {
     font-size: 2em;
