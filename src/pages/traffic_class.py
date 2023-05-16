@@ -13,7 +13,7 @@ from pathlib import Path
 DATA_PATH = Path(os.path.abspath(__file__)).parent.parent.parent / 'data'
 df = pd.read_csv(DATA_PATH  / "final_data.csv").dropna()
 df = df.copy(deep=True)
-df["date"] = pd.to_datetime(df["date"])
+# df["date"] = pd.to_datetime(df["date"])
 
 # Main traffic classs
 data = df.groupby(['traffic_class']).size().reset_index(name='count').sort_values(by='count', ascending=False).reset_index(drop=True)

@@ -8,7 +8,6 @@
 }
 
 body {
-    padding: 20px;
     background-color: rgba(229, 201, 16, 0);
     color: rgb(0, 0, 0);
     font-family: 'Poppins', sans-serif;
@@ -27,7 +26,29 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  column-gap: 1.5rem;
+  background-color: rgb(50, 209, 92);
+  border-radius: 1.1rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 0.5rem;
 }
+
+@keyframes marquee {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.marquee {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: marquee 10s linear infinite;
+}
+
 
 .header .logo_title img {
   object-fit: contain;
@@ -35,8 +56,8 @@ body {
   min-height: 50px;
 }
 
-.header .logo_title {
-    font-size: 2em;
+.header .logo_title h1{
+    font-size: 1.2em;
     text-transform: uppercase;
     text-align: center;
 }
@@ -70,11 +91,12 @@ body {
 }
 
 .nav a:hover {
-    background-color: #4cdccb;
+    background-color: rgb(50, 209, 92);
     transition: 0.3s ease-in;
     color: #000000;
     font-weight: 600;
     transition: 0.5s ease-in;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .hero {
@@ -125,4 +147,20 @@ body {
 /* The footer section */
 footer {
     text-align: center;
+}
+
+
+@media screen and (min-width: 970px) {
+  .header .logo_title {
+    color: #fff;
+    justify-content: space-between;
+    /* background-color: rgb(221, 223, 225); */
+    border-radius: 1.1rem;
+    padding: 15px 100px;
+    background-color: rgb(50, 209, 92);
+    
+  }
+  .header .logo_title h2 {
+    font-size: 1.5rem;
+  }
 }

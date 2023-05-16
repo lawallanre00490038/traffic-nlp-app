@@ -13,8 +13,6 @@ from functions.get_file import get_pandas_data
 from pathlib import Path
 DATA_PATH = Path(os.path.abspath(__file__)).parent.parent.parent / 'data'
 df = pd.read_csv(DATA_PATH  / "coordinates_data.csv").dropna()
-df["date"] = pd.to_datetime(df["date"])
-
 # Set the API key
 gmaps.configure(api_key='AIzaSyDxTCeIB_-YadQbWqDbCSBKtfttEWbF_8w')
 
@@ -68,7 +66,7 @@ def update_output_div(value, start_date, end_date):
         data = df.copy(deep=True)
         data = filter_by_date_and_category(data, value, start_date, end_date)
         fig = px.scatter_mapbox(
-            data, lat="lat", lon="lng", 
+            data, lat="lat", lon="lng",
             hover_data=["date", "place"],
             zoom=10, height=500,
             color_continuous_scale="Viridis",

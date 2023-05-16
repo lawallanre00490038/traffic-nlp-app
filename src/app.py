@@ -18,11 +18,17 @@ app = Dash(__name__,
             suppress_callback_exceptions=True)
 server = app.server
 
+
 app.layout = html.Div(
     [
         html.Div(
-        [
-            html.H1('Lagos Traffic Data Geo-visualization'),
+        [   
+            html.Div([
+                html.H2('Lagos Traffic Data Geo-visualization')
+                # html.Div(id='marquee-container', children=[
+                #     html.P((text for text in ['Hello', 'World', 'How', 'Are', 'You']), className='.marquee')
+                # ])
+            ]),
             html.Img(src='assets/traffic_logo1.png')
             
         ],  className='logo_title'),

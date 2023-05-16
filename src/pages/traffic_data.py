@@ -5,6 +5,7 @@ from dash import  dash_table
 from dash.dash_table.Format import Group
 from dateutil import tz
 from functions.style import style_table
+from functions.functions import extract_date_and_time
 from functions.get_file import get_pandas_data, get_txt_data
 from pathlib import Path
 DATA_PATH = Path(os.path.abspath(__file__)).parent.parent.parent / 'data'
@@ -12,15 +13,16 @@ DATA_TXT_PATH = Path(os.path.abspath(__file__)).parent.parent.parent / 'data'
 
 dash.register_page(__name__, path="/data")
 
-table_extracted = pd.read_csv(DATA_TXT_PATH /"selected_data.txt", header=0, sep='\t')
+table_extracted = pd.read_csv(DATA_TXT_PATH /"selected_data.csv")
 table_extracted = table_extracted.copy(deep=True)
-table_extracted['date'] = pd.to_datetime(table_extracted['date']).apply(lambda x: x.astimezone(tz.gettz('UTC')).replace(tzinfo=None))
+# table_extracted['date'] = pd.to_datetime(table_extracted['date'])
 
+df_final = pd.read_csv(DATA_PATH  / "final_data.csv").dropna()
+df = df_final.copy(deep=True)
+df = df[df['place'].str.contains(r'^[^\d]*$' )]
+# df['date'] = pd.to_datetime(df['date'])
 
-df = pd.read_csv(DATA_PATH  / "final_data.csv").dropna()
-df["date"] = pd.to_datetime(df["date"])
-df = df.drop(columns=["Unnamed: 0"])
-df['date'] = pd.to_datetime(df['date']).apply(lambda x: x.astimezone(tz.gettz('UTC')).replace(tzinfo=None))
+# df['date'] = pd.to_datetime(df['date']).apply(lambda x: x.astimezone(tz.gettz('UTC')).replace(tzinfo=None))
 
 layout = html.Div([
 
